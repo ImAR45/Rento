@@ -1,0 +1,136 @@
+.rightsidemenu {
+    float: right;
+    text-align: center;
+    width: 81.7%;
+    position: absolute;
+    top: 8.8%;
+    left: 18.5%;
+    margin: 0px;
+    background-color: transparent;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+    height: 537px;
+    overflow: auto;
+}
+.rightsidemenu th {
+  margin-top: 5px;
+  border: 2px solid;
+  padding: 7px 2px;
+  width: 10px;
+}
+.rightsidemenu2 {
+    float: right;
+    text-align: center;
+    width: 84.2%;
+    position: absolute;
+    top: 8.8%;
+    left: 18.5%;
+    margin: 0px;
+    background-color: transparent;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+    height: 537px;
+    overflow: auto;
+}
+.rightsidemenu2 th {
+  margin-top: 5px;
+  border: 2px solid;
+  padding: 7px 2px;
+  width: 10px;
+}
+.signupform_content h2 {
+  margin: 0px 0 0 0;
+  padding: 0px 0px 20px 0px;
+  font-size: 40px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
+.signupform_text {
+  font-size: 25px;
+  padding: 0;
+  font-weight: bold;
+  color: #ffffff;
+  font-style: normal;
+}
+.signup_form {
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  padding: 22px 53px 0 53px;
+  color: #ffffff;
+  border-radius: 8px;
+  font-style: italic;
+}
+
+.signupbox {
+  font-size: 25px;
+  font-style: italic;
+  margin-bottom: 3px;
+  margin-top: 0px;
+  padding: 14px;
+  line-height: 25px;
+  background: white;
+  
+  border-radius: 4px;
+  border: 1px solid #000000;
+  color: #000000;
+  margin-left: 0;
+  width: 300px;
+  height: 40px;
+  /*background-color: transparent;*/
+}
+
+.signupbutton {
+    background-color: transparent;
+    border: 2px solid #000000;
+    border-radius: 6px;
+    margin: 10px 0px;
+}
+.uisignupbutton {
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 13px;
+    padding: 14px 0;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+    border-width: 2px;
+    border: 2px solid #000000;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)
+}
+.uisignupbutton:hover {
+  background-color: silver;
+}
+
+.home-prodlist h3 {
+  text-align: center;
+  margin: 20px 10px;
+  font-size: 25px;
+}
+.home-prodlist-img img div {
+    font-size: 20px;
+}
+.home-prodlist-img:hover {
+    background-color: #000099;
+    border-radius: 8px;
+    color: #fff;
+}
+.home-prodlist-imgi {
+    height: 350px; 
+    width: 300px; 
+    padding: 2px;
+    border: 1px solid #333333;
+    border-radius: 8px;
+}
